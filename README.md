@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# This repo is no longer used. Please see  https://github.com/microsoft/devops-project-samples for samples of Azure DevOps Project
+#Please see  https://github.com/microsoft/devops-project-samples for samples of Azure DevOps Project
 
 | Language | Platform | Author |
 | -------- | --------|--------|
