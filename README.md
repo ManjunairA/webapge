@@ -1,8 +1,8 @@
 <<<<<<< HEAD
 #Please see  https://github.com/microsoft/devops-project-samples for samples of Azure DevOps Project
 
-| Language | Platform | Author |
-| -------- | --------|--------|
+| Language | Platform | Authors |
+| -------- | --------|--------|   
 | HTML |  Azure Web App, Virtual Machine| |
 
 # Sample HTML website 
