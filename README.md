@@ -20,6 +20,6 @@ For more information see the [Code of Conduct FAQ](https://opensource.microsoft.
 contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
 
 =======
-# sample_project
-My first sample project
+# Web project
+Simple project
 >>>>>>> a2a673459139e902fe48721f31a0485d3d1773ea
